@@ -41,7 +41,7 @@ function Navbar() {
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
                             <AnchorLink href='#hero' className='nav-links' onClick={closeMobileMenu}>
-                                test
+                                Home
               </AnchorLink>
                         </li>
                         <li className='nav-item'>
