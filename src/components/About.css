@@ -1,0 +1,64 @@
+hr {
+  border: dotted #3e5464 10px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 50px;
+}
+
+h1 {
+  color: #3c7faf;
+  font-weight: 500;
+  font-size: 2.5rem;
+  line-height: 3;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 500;
+  color: #3c7faf;
+  line-height: 3;
+}
+
+.about {
+  padding: 6rem;
+  background: #d3e0ea;
+  margin: auto;
+  font-size: 18px;
+}
+
+.profile-img {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+}
+
+.intro-text {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+
+.code-img {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+}
+
+.skill-row {
+  margin: auto;
+  width: 65%;
+  margin-top: 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.pep-pizza {
+  border-radius: 50%;
+  float: right;
+  width: 20%;
+  margin: auto;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+}

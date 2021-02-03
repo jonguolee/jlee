@@ -1,0 +1,25 @@
+.contact {
+  padding: 6rem 0 6rem;
+  background: #d3e0ea;
+  margin: auto;
+  font-size: 18px;
+}
+
+.profile-img {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+}
+
+.intro-text {
+  width: 40%;
+  margin: 0 auto 50px;
+  text-align: center;
+}
+
+.cta {
+  margin: auto;
+  text-align: center;
+  /* position: absolute; */
+}
