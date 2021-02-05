@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jlee/static/css/main.4ecef444.chunk.css",
-    "main.js": "/jlee/static/js/main.cb4fb01b.chunk.js",
-    "main.js.map": "/jlee/static/js/main.cb4fb01b.chunk.js.map",
+    "main.css": "/jlee/static/css/main.4fa7e936.chunk.css",
+    "main.js": "/jlee/static/js/main.e0531250.chunk.js",
+    "main.js.map": "/jlee/static/js/main.e0531250.chunk.js.map",
     "runtime-main.js": "/jlee/static/js/runtime-main.91db2493.js",
     "runtime-main.js.map": "/jlee/static/js/runtime-main.91db2493.js.map",
     "static/js/2.5ccaed35.chunk.js": "/jlee/static/js/2.5ccaed35.chunk.js",
     "static/js/2.5ccaed35.chunk.js.map": "/jlee/static/js/2.5ccaed35.chunk.js.map",
     "index.html": "/jlee/index.html",
-    "static/css/main.4ecef444.chunk.css.map": "/jlee/static/css/main.4ecef444.chunk.css.map",
+    "static/css/main.4fa7e936.chunk.css.map": "/jlee/static/css/main.4fa7e936.chunk.css.map",
     "static/js/2.5ccaed35.chunk.js.LICENSE.txt": "/jlee/static/js/2.5ccaed35.chunk.js.LICENSE.txt",
     "static/media/App.css": "/jlee/static/media/img-8.fabdf94d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.91db2493.js",
     "static/js/2.5ccaed35.chunk.js",
-    "static/css/main.4ecef444.chunk.css",
-    "static/js/main.cb4fb01b.chunk.js"
+    "static/css/main.4fa7e936.chunk.css",
+    "static/js/main.e0531250.chunk.js"
   ]
 }
