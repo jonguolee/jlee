@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jlee/static/css/main.ba7f0f5c.chunk.css",
+    "main.css": "/jlee/static/css/main.c66a28d9.chunk.css",
     "main.js": "/jlee/static/js/main.2acd058c.chunk.js",
     "main.js.map": "/jlee/static/js/main.2acd058c.chunk.js.map",
     "runtime-main.js": "/jlee/static/js/runtime-main.91db2493.js",
@@ -8,14 +8,13 @@
     "static/js/2.cd2362a9.chunk.js": "/jlee/static/js/2.cd2362a9.chunk.js",
     "static/js/2.cd2362a9.chunk.js.map": "/jlee/static/js/2.cd2362a9.chunk.js.map",
     "index.html": "/jlee/index.html",
-    "static/css/main.ba7f0f5c.chunk.css.map": "/jlee/static/css/main.ba7f0f5c.chunk.css.map",
-    "static/js/2.cd2362a9.chunk.js.LICENSE.txt": "/jlee/static/js/2.cd2362a9.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/jlee/static/media/space.5f2733e3.jpg"
+    "static/css/main.c66a28d9.chunk.css.map": "/jlee/static/css/main.c66a28d9.chunk.css.map",
+    "static/js/2.cd2362a9.chunk.js.LICENSE.txt": "/jlee/static/js/2.cd2362a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91db2493.js",
     "static/js/2.cd2362a9.chunk.js",
-    "static/css/main.ba7f0f5c.chunk.css",
+    "static/css/main.c66a28d9.chunk.css",
     "static/js/main.2acd058c.chunk.js"
   ]
 }
