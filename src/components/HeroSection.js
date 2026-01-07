@@ -9,7 +9,7 @@ function HeroSection() {
         <div id="hero" className="hero-container">
             <video src="/videos/video-3.mp4" autoPlay loop muted></video>
             <h1>I'm Jonathan.</h1>
-            <p>...an Aspiring Web Developer.</p>
+            <p>...a Web Developer.</p>
             <div className="hero-btns">
                 <AnchorLink
                     href='#about'
