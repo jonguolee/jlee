@@ -8,7 +8,9 @@ function About() {
             <img className="profile-img" src="images/linkedin-profile-og.JPG" alt="jonathan-headshot" />
 
             <h1>Hello.</h1>
-            <p className="intro-text">I am an alum from Texas A&M University '20. Current web developer-in-training with ambition for creative design!</p>
+            <p className="intro-text">I am an alum from Texas A&M University '20. My areas of interest include Web Content Management, Design, and Front-end development as well as general IT support and consulting. I am looking to further expand my knowledge in these areas and take on challenges that can test my abilities.
+
+</p>
             <hr />
             {/* <div className="skill-row">
                 <img className="code-img" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" alt="code-img" />
